@@ -1,0 +1,14 @@
+.formClass{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:10px;
+    padding:20px 0px;
+}
+
+
+.tableClass{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
